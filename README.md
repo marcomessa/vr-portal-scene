@@ -18,3 +18,4 @@ This scene based on exercise 49 - "Portal Scene" of the epic course "[ThreeJS Jo
 
 ## TODO
 - Add teleport
+- Find an "easier" to position the user on the ground on session start
