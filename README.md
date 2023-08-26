@@ -1,12 +1,12 @@
 # Vr Portal Scene
-This scene based on exercise 49 - "Portal Scene" of the epic course "[ThreeJS Journey](https://threejs-journey.com/)" by Bruno Simon.
+This scene based on exercise 49 - "Portal Scene" of the epic course "[ThreeJS Journey](https://threejs-journey.com/)" by [Bruno Simon](https://twitter.com/bruno_simon).
 
 ## Extra dependencies
 - Vr integration in R3F [@react-three/xr](https://github.com/pmndrs/react-xr)
 - Vite https plugin [vite-plugin-mkcert](https://www.npmjs.com/package/vite-plugin-mkcert)
 
 ## How to run
-- npm install` (I'm using node 18)
+- `npm install` (I'm using node 18)
 - `npm run dev`
 
 ## Differences between original scene
