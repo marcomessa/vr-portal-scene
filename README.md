@@ -1,5 +1,5 @@
 # Vr Portal Scene
-This scene based on exercise 49 - "Portal Scene" of the epic course "[ThreeJS Journey](https://threejs-journey.com/)" by [Bruno Simon](https://twitter.com/bruno_simon).
+This scene based on exercise 49 - "Portal Scene" of the epic course "[ThreeJS Journey](https://threejs-journey.com/)" by [Bruno Simon](https://twitter.com/bruno_simon). It uses ThreeJS WebXR API to create a full immersive vr experience around the original scene.
 
 ## Running in browser
 - I really suggest [this extension](https://chrome.google.com/webstore/detail/immersive-web-emulator/cgffilbpcibhmcfbgggfhfolhkfbhmik) for testing vr experience in your browser
