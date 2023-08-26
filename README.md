@@ -1,6 +1,9 @@
 # Vr Portal Scene
 This scene based on exercise 49 - "Portal Scene" of the epic course "[ThreeJS Journey](https://threejs-journey.com/)" by [Bruno Simon](https://twitter.com/bruno_simon).
 
+## Running in browser
+- I really suggest [this extension](https://chrome.google.com/webstore/detail/immersive-web-emulator/cgffilbpcibhmcfbgggfhfolhkfbhmik) for testing vr experience in your browser
+
 ## Extra dependencies
 - Vr integration in R3F [@react-three/xr](https://github.com/pmndrs/react-xr)
 - Vite https plugin [vite-plugin-mkcert](https://www.npmjs.com/package/vite-plugin-mkcert)
